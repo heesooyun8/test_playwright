@@ -1,4 +1,5 @@
-# qa_automation_test
+# test_playwright
+
 
 ## 설치
 ```
