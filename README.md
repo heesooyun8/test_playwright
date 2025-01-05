@@ -14,7 +14,7 @@
 ## 디렉토리 및 파일 설명
 - tests
     - screenhots : 테스트 스킵 또는 실패에 대한 이미지 캡처 파일 생성
-    - xxx.spec.js : 구현 코드
+    - desktop-tests.spec.js : 구현 코드
 - playwright.config.js : 설정파일
 - playwright-report
     - index.html : 테스트 결과를 리포트로 발행
